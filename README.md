@@ -7,9 +7,9 @@
 - 📌 [Protótipo de Site de uma empresa de TI Ficitícia](https://github.com/juliasgr/codewell) – Projeto em equipe para disciplina de UX
 
 ## 📊 Minhas Estatísticas
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaseger&show_icons=true&theme=tokyonight)
+![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliasgr&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaseger&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliasgr&layout=compact&theme=tokyonight)
 
 
 ## 📫 Como me encontrar
