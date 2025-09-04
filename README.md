@@ -9,3 +9,6 @@
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julia-seger/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliadesouzaseger@gmail.com)
+
+### 🐍 Snake Game
+![snake gif](https://github.com/juliaseger/juliaseger/blob/output/github-contribution-grid-snake.svg)
