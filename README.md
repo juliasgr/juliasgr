@@ -1,5 +1,5 @@
 <p align="center" style="margin:0; padding:0;">
-  <img src="https://raw.githubusercontent.com/juliasgr/juliasgr/main/assets/wave.svg" alt="wave animation" width="100%" style="margin-bottom:-25px;">
+  <img src="https://raw.githubusercontent.com/juliasgr/juliasgr/main/assets/wave.svg" alt="wave animation" width="100%" style="margin-bottom:-250px;">
 </p>
 
 <div align="center" style="margin-top:-5px;">
