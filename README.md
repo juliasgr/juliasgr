@@ -1,9 +1,7 @@
-<!-- 🌊 Onda superior (invertida e aproximada do texto) -->
 <p align="center" style="margin:0; padding:0;">
-  <img src="https://raw.githubusercontent.com/juliasgr/juliasgr/main/assets/wave.svg" alt="wave animation" width="100%" style="margin-bottom:-20px;">
+  <img src="https://raw.githubusercontent.com/juliasgr/juliasgr/main/assets/wave.svg" alt="wave animation" width="100%" style="margin-bottom:-25px;">
 </p>
 
-<!-- 🧑‍💻 Apresentação -->
 <div align="center" style="margin-top:-5px;">
   <h1 style="margin-bottom:6px;">Oi, eu sou a Julia! 💻</h1>
   <h3 style="font-weight:500; margin-top:0; margin-bottom:12px;">
@@ -13,12 +11,10 @@
 
 <hr style="margin: 8px 0 14px 0;">
 
-<!-- 🚀 Projetos em Destaque -->
 <div align="center" style="margin-bottom: 6px;">
   <h2 style="margin: 0 0 8px 0;">🚀 Projetos em Destaque</h2>
 </div>
 
-<!-- 🔗 Projetos alinhados à esquerda -->
 <div style="max-width:820px; margin:0 auto 18px auto; text-align:left;">
   📌 <a href="https://github.com/juliasgr/Calculadora-Tiflux">Calculadora</a> – Calculadora com uso de HTML, CSS e JavaScript  
   📌 <a href="https://github.com/juliasgr/Certificados">Site de Certificados</a> – Portfólio  
@@ -27,7 +23,6 @@
 
 <hr style="margin: 8px 0 14px 0;">
 
-<!-- 📫 Contato -->
 <div align="center" style="margin-bottom: 4px;">
   <h2 style="margin: 0 0 8px 0;">📫 Como me encontrar</h2>
   <p style="margin:6px 0;">
@@ -40,7 +35,6 @@
   </p>
 </div>
 
-<!-- 🌊 Onda inferior (aproximada do rodapé) -->
 <p align="center" style="margin-top:-18px; padding:0;">
-  <img src="https://raw.githubusercontent.com/juliasgr/juliasgr/main/assets/wave-bottom.svg" alt="wave bottom" width="100%" style="margin-top:-20px;">
+  <img src="https://raw.githubusercontent.com/juliasgr/juliasgr/main/assets/wave-bottom.svg" alt="wave bottom" width="100%" style="margin-top:-25px;">
 </p>
