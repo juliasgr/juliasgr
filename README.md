@@ -1,19 +1,12 @@
-<div align="center" style="overflow:hidden; margin: 0; padding:0;">
-[  <svg viewBox="0 0 180 40" preserveAspectRatio="none" width="100%" height="90">
-    <defs>
-      <linearGradient id="gTop" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0%" stop-color="#8A2BE2"/>
-        <stop offset="100%" stop-color="#6A00F4"/>
-      </linearGradient>
-    </defs>
-
-  </svg>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juliasgr/juliasgr/main/assets/wave.svg" alt="wave animation" width="100%">
+</p>
 </div>
 
 <div align="center" style="margin-top: -10px; padding-top: 6px;">
   <h1 style="margin-bottom:6px;">Oi, eu sou a Julia! 💻</h1>
   <h3 style="font-weight:500; margin-top:0; margin-bottom:12px;">Técnica em Desenvolvimento de Sistemas | Estudante de Engenharia de Software 🎓</h3>
-</div>
+
 
 <hr style="margin: 6px 0 16px 0;">
 
@@ -44,15 +37,6 @@
   </p>
 </div>
 
-<div align="center" style="overflow:hidden; margin-top: -6px; padding: 0;">
-  <svg viewBox="0 0 180 40" preserveAspectRatio="none" width="100%" height="70">
-    <defs>
-      <linearGradient id="gBottom" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0%" stop-color="#6A00F4"/>
-        <stop offset="100%" stop-color="#8A2BE2"/>
-      </linearGradient>
-    </defs>
-
-  
-  </svg>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juliasgr/juliasgr/main/assets/wave-bottom.svg" alt="wave bottom" width="100%">
+</p>
