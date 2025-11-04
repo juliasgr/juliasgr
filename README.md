@@ -1,33 +1,36 @@
 <!-- Onda de cima -->
-<p align="center" style="margin:0; padding:0;">
+<p align="center" style="margin:0; padding:0; line-height:0;">
   <img src="https://raw.githubusercontent.com/juliasgr/juliasgr/main/assets/wave.svg"
        alt="wave animation"
-       width="100%"
-       style="display:block; margin-bottom:-20px;">
+       width="100%">
 </p>
 
+<!-- Truque para remover espaçamento -->
+<!-- -->
+<div style="height:-10px; line-height:0; margin-top:-35px;"></div>
+
 <!-- Apresentação -->
-<div align="center" style="margin-top:-10px; padding-top:0;">
-  <h1 style="margin-bottom:6px;">Oi, eu sou a Julia! 💻</h1>
-  <h3 style="font-weight:500; margin-top:0; margin-bottom:10px;">
+<div align="center" style="padding-top:0; margin-top:-10px;">
+  <h1 style="margin-bottom:4px;">Oi, eu sou a Julia! 💻</h1>
+  <h3 style="font-weight:500; margin-top:0; margin-bottom:8px;">
     Técnica em Desenvolvimento de Sistemas | Estudante de Engenharia de Software 🎓
   </h3>
 </div>
 
-<hr style="margin: 4px 0 12px 0;">
+<hr style="margin: 4px 0 10px 0;">
 
 <!-- Projetos -->
 <div align="center" style="margin-bottom:4px;">
   <h2 style="margin: 0 0 8px 0;">🚀 Projetos em Destaque</h2>
 </div>
 
-<div style="max-width:820px; margin:0 auto 12px auto; text-align:center;">
+<div style="max-width:820px; margin:0 auto 10px auto; text-align:center;">
   <p>📌 <a href="https://github.com/juliasgr/Calculadora-Tiflux">Calculadora</a> — HTML, CSS e JavaScript</p>
   <p>📌 <a href="https://github.com/juliasgr/Certificados">Site de Certificados</a> — Portfólio pessoal</p>
-  <p>📌 <a href="https://github.com/juliasgr/codewell">Codewell</a> — Protótipo de site de empresa de TI fictícia</p>
+  <p>📌 <a href="https://github.com/juliasgr/codewell">Codewell</a> — Protótipo de site de TI fictícia</p>
 </div>
 
-<hr style="margin: 4px 0 12px 0;">
+<hr style="margin: 4px 0 10px 0;">
 
 <!-- Contato -->
 <div align="center" style="margin-bottom:6px;">
@@ -45,10 +48,12 @@
   </p>
 </div>
 
+<!-- Truque para remover espaçamento -->
+<div style="height:-10px; line-height:0; margin-bottom:-30px;"></div>
+
 <!-- Onda de baixo -->
-<p align="center" style="margin:0; padding:0;">
+<p align="center" style="margin:0; padding:0; line-height:0;">
   <img src="https://raw.githubusercontent.com/juliasgr/juliasgr/main/assets/wave-bottom.svg"
        alt="wave bottom"
-       width="100%"
-       style="display:block; margin-top:-20px;">
+       width="100%">
 </p>
