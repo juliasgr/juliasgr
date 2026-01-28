@@ -1,9 +1,3 @@
-<p align="center" style="margin:0; padding:0; line-height:0;">
-  <img src="https://raw.githubusercontent.com/juliasgr/juliasgr/main/assets/wave.svg" alt="wave animation" width="100%">
-</p>
-
-<div style="height:-10px; line-height:0; margin-top:-35px;"></div>
-
 <div align="center" style="padding-top:0; margin-top:-10px;">
   <h1 style="margin-bottom:4px;">Oi, eu sou a Julia! 💻</h1>
   <h3 style="font-weight:500; margin-top:0; margin-bottom:8px;">
@@ -38,8 +32,3 @@
   </p>
 </div>
 
-<div style="height:-10px; line-height:0; margin-bottom:-30px;"></div>
-
-<p align="center" style="margin:0; padding:0; line-height:0;">
-  <img src="https://raw.githubusercontent.com/juliasgr/juliasgr/main/assets/wave-bottom.svg" alt="wave bottom" width="100%">
-</p>
