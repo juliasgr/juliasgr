@@ -12,7 +12,7 @@
 </div>
 
 <div style="max-width:820px; margin:0 auto 10px auto; text-align:center;">
-  <p>📌 <a href="https://github.com/juliasgr/Calculadora-Tiflux">Calculadora</a> — HTML, CSS e JavaScript</p>
+  <p>📌 <a href="https://github.com/juliasgr/projeto-workshop-IA-Dados">Projeto de Dados</a> — Extração, limpeza e análise de dados</p>
   <p>📌 <a href="https://github.com/juliasgr/Portfolio">Site de Certificados</a> — Portfólio pessoal</p>
   <p>📌 <a href="https://github.com/juliasgr/codewell">Codewell</a> — Protótipo de site de TI fictícia</p>
 </div>
